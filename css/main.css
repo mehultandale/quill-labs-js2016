@@ -1,0 +1,32 @@
+.orange {
+  color: #fa824c; }
+
+.blue {
+  color: #40749a; }
+
+.yellow {
+  color: #f0da50; }
+
+.extra-bold {
+  font-weight: 800; }
+
+.intro img {
+  padding: 10px;
+  height: 150px;
+  width: 150px; }
+.intro .quill-logo {
+  margin-left: 65px; }
+.intro .js-logo {
+  width: 110px;
+  height: 110px;
+  margin-top: 18px; }
+
+.titles {
+  margin-top: 80px; }
+  .titles .heading1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300; }
+  .titles .heading2 {
+    font-size: 36px; }
+
+/*# sourceMappingURL=main.css.map */

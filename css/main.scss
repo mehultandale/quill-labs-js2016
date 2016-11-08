@@ -1,0 +1,55 @@
+$orange: #fa824c;
+$blue: #40749a;
+$yellow: #f0da50;
+
+$extra-bold: 800;
+
+// Colors
+.orange {
+	color: $orange;
+}
+
+.blue {
+	color: $blue;
+}
+
+.yellow {
+	color: $yellow;
+}
+
+// Font weights
+.extra-bold {
+	font-weight: $extra-bold;
+}
+
+// Introduction section
+.intro {
+	img	{
+		padding: 10px;
+		height: 150px;
+    	width: 150px;    	
+	}
+
+	.quill-logo {
+		margin-left: 65px;
+	}
+
+	.js-logo {
+	    width: 110px;
+	    height: 110px;
+	    margin-top: 18px;
+	}	
+}
+
+// Title section
+.titles {
+	margin-top: 80px;
+
+	.heading1 {
+		font-family: 'Open Sans', sans-serif;
+		font-weight: 300;
+	}
+	.heading2 {
+		font-size: 36px;
+	}
+}
