@@ -7,8 +7,18 @@
 .yellow {
   color: #f0da50; }
 
+.light-100 {
+  font-weight: 100; }
+
 .extra-bold {
   font-weight: 800; }
+
+.bold-link {
+  border-bottom: 1px dashed;
+  cursor: pointer; }
+
+.mg-btm-50 {
+  margin-bottom: 50px; }
 
 .intro img {
   padding: 10px;
@@ -22,11 +32,35 @@
   margin-top: 18px; }
 
 .titles {
-  margin-top: 80px; }
+  margin-top: 100px; }
+  .titles a, .titles a:hover {
+    text-decoration: none; }
   .titles .heading1 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300; }
   .titles .heading2 {
     font-size: 36px; }
+
+.speakers {
+  margin-top: 200px;
+  margin-bottom: 200px; }
+  .speakers > .row {
+    margin-top: 10px; }
+  .speakers .speaker-dp {
+    height: 200px;
+    width: 200px; }
+
+.in-btn {
+  padding: 20px 60px;
+  border: 1px solid;
+  margin-top: 100px;
+  display: block;
+  background: #fa824c;
+  color: white; }
+
+.cta a, .cta a:hover {
+  text-decoration: none;
+  color: white;
+  border: none; }
 
 /*# sourceMappingURL=main.css.map */
